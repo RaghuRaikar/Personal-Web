@@ -3,12 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Raghavendra
+middle_name: 
+last_name: Raikar
+email: raghu.raikar@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  As a computer science student at the University of California, Santa Cruz, I have built a solid foundation in programming languages like Java, Python, and C++. My skills also extend to web development with HTML, CSS, and JavaScript, and I have practical experience with databases and version control systems.
+
+My primary interest lies in artificial intelligence and machine learning, where I am eager to apply and expand my expertise. I enjoy solving coding challenges and training AI models, and I am committed to staying updated with the latest advancements in the field. I am enthusiastic about contributing my skills to innovative projects in AI/ML and continuing to grow in this exciting area.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
