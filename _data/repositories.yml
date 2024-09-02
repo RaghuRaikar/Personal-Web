@@ -4,10 +4,15 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - RaghuRaikar/NorthwindWebApp
+  - RaghuRaikar/Logging_Library
+  - RaghuRaikar/R-E-Motors-E-Commerce-Website
+  - RaghuRaikar/Google-Project
+  - RaghuRaikar/Yelp-Company-Case-Project
+  - RaghuRaikar/Mind-Palace
+  - RaghuRaikar/Twitter-Clone
+  - RaghuRaikar/Instagram_Clone
+  - RaghuRaikar/Twitter-Clone-Part-2
+  - RaghuRaikar/Microsoft-Project
+  - RaghuRaikar/chatsupport
+  - Raghu/PantryPal-1
