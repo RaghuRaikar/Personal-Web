@@ -29,7 +29,12 @@
       "url": "https://example.com",
       "startDate": "2024-07-21",
       "endDate": "Present",
-      "summary": "",
+      "summary": [
+        "Developed a matching and booking system using React Native",
+        "Collaborated closely with clients to gather requirements and feedback",
+        "Integrated backend services to enhance booking system functionality",
+        "Improved the UI/UX based on user feedback and testing"
+      ],
       "highlights": ["Bridging the gap between client and make-up artist by developing a matching and booking system using React Native"]
     }
   ],
