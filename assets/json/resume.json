@@ -73,7 +73,7 @@
       "startDate": "2021-09-18",
       "endDate": "2025-06-15",
       "score": "",
-      "courses": ["Data Structures/Algorithms", "Object Oriented Programming", "Software Engineering", "Deep Learning", "Machine Learning", "Operating Systems", "Natural Language Processing"]
+      "courses": ["GPA: 3.83","Data Structures/Algorithms", "Object Oriented Programming", "Software Engineering", "Deep Learning", "Machine Learning", "Operating Systems", "Natural Language Processing"]
     }
   ],
   "awards1": [
@@ -133,16 +133,52 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C",
+        "C++",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Flutter",
+        "Swift",
+        "Flask",
+        "TypeScript",
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "AWS",
+        "React",
+        "Node.js",
+        "Git",
+        "PostgreSQL",
+        "Restful APIs",
+        "Docker",
+        "Angular",
+        "Firebase",
+        "Spring Boot",
+        "NLTK",
+        "Pandas",
+        "scikit-learn",
+        "Tensorflow",
+        "Matlab",
+        "Streamlit",
+        "spaCy",
+        "BERT",
+        "Hugging Face",
+        "Microsoft Azure",
+        "Django",
+        "Flask",
+        "Express",
+        "Linux",
+        "PyTorch",
       ]
     }
   ],
@@ -155,19 +191,17 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "AI",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Natural Language Processing"
       ]
     }
   ],
-  "references": [
+  "references1": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
@@ -181,12 +215,28 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "PlayPicks",
+      "summary": "",
+      "highlights": ["React | Flask | SpaCy | Firebase | Llama | Odds API | RAG","Built a chatbot with Llama LLM, using RAG and Odd API data to deliver AI predictions, real-time odds, and tailored betting advice. Employed spaCy for conversation labeling and deployed via AWS Amplify, reaching over 100+ users."],
+      "startDate": "2024-08-01",
+      "endDate": "Present",
+      "url": "https://play-picks.com"
+    },
+    {
+      "name": "PantryPal",
+      "summary": "",
+      "highlights": ["Streamlit | Flask | Pandas | NLTK | SKLearn | BeautifulSoup", "Engineered an AI model using Streamlit, Flask, Pandas, NLTK, and SKLearn to recommend recipes based on inputted ingredients, creating a user-friendly interface and enhancing user experience."],
+      "startDate": "2023-07-20",
+      "endDate": "2023-08-31",
+      "url": "https://github.com/PantryPal-1"
+    },
+    {
+      "name": "Wasteless",
+      "summary": "",
+      "highlights": ["1st Place Overall | Best Use of Google Cloud | Best Golden State Hack", "Firebase | Firebase Cloud Messaging | Google Maps API | Flutter | Google Cloud", "Developed a food waste app using Firebase, Google Maps API, and Flutter, allowing users to find and collect excess food from dining halls and restaurants, reducing food waste costs by an estimated $162 billion annually."],
+      "startDate": "2022-01",
+      "endDate": "2022-01",
+      "url": "https://devpost.com/software/wasteless-45tuj9"
     }
   ]
 }
