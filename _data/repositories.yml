@@ -7,6 +7,9 @@ github_organizations:
   - PantryPal-1
 
 github_repos:
+  - WasteLessApp/WasteLessApp
+  - RaghuRaikar/chatsupport
+  - Friends-In-CS/Pull-Request-Automation-Review-App
   - RaghuRaikar/NorthwindWebApp
   - RaghuRaikar/Logging_Library
   - RaghuRaikar/R-E-Motors-E-Commerce-Website
@@ -17,9 +20,14 @@ github_repos:
   - RaghuRaikar/Instagram_Clone
   - RaghuRaikar/Twitter-Clone-Part-2
   - RaghuRaikar/Microsoft-Project
-  - RaghuRaikar/chatsupport
   - RaghuRaikar/project2-map-reduce
   - RaghuRaikar/project3-slug-dining
   - RaghuRaikar/project4-kvs-cache
   - RaghuRaikar/project5-container
+  - PantryPal-1/pantry-client
+  - PantryPal-1/pantry-recommender
+  - PantryPal-1/pantry-server
+  - PantryPal-1/pantry-scraper
+  - PantryPal-1/pantry-pal-class-materials
+  
   
