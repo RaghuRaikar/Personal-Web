@@ -29,13 +29,26 @@
       "url": "https://example.com",
       "startDate": "2024-07-21",
       "endDate": "Present",
-      "summary": [
-        "Developed a matching and booking system using React Native",
-        "Collaborated closely with clients to gather requirements and feedback",
-        "Integrated backend services to enhance booking system functionality",
-        "Improved the UI/UX based on user feedback and testing"
-      ],
-      "highlights": ["Bridging the gap between client and make-up artist by developing a matching and booking system using React Native", "Collaborated closely with clients to gather requirements and feedback"]
+      "summary": [""],
+      "highlights": ["Bridging the gap between client and make-up artist by developing a matching and booking system using React Native, Python and Firebase, setting the stage for a seamless user experience and generating pre-launch interest.", " Enhanced software design, coding, and testing, accelerating feature deployment by 25% and integrated Jest for unit testing, ensuring robust and maintainable code.", "Collaborated with co-founders and engineers to ensure scalable launch readiness, focusing on robust system design and data integrity."]
+    },
+    {
+      "name": "NASA",
+      "position": "Software Engineering Intern",
+      "url": "https://celestial.arc.nasa.gov/",
+      "startDate": "2023-06-05",
+      "endDate": "2024-05-10",
+      "summary": [""],
+      "highlights": ["Built and improved 10+ features for the CMS Celestial Mapping System using Java, enhancing 3D simulation accuracy and contributing to mission planning.", "Integrated the latest version of GDAL, boosting image projection accuracy by 30%, and added vector features, enhancing crater analysis by 40%.", "Developed data pipeline and algorithms for HORUS, improving lunar crater clarity by 25%, and presented the project at the NASA Better Together 2023 conference."]
+    },
+    {
+      "name": "Kitu Systems",
+      "position": "Software Engineering Intern",
+      "url": "https://www.kitu.io/",
+      "startDate": "2023-03-27",
+      "endDate": "2023-06-15",
+      "summary": [""],
+      "highlights": [" Built Python program using regex, streamlining client-side requirement extraction for Kitu-Inverter-Client by 70%.", "Cataloged server and client-side requirements, reducing development time by 35% and enhancing team accessibility.", "Conducted TPM testing on the OnLogic Board, achieving a 95% success rate in secure key storage and file decryption."]
     }
   ],
   "volunteer": [
