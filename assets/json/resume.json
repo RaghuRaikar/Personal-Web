@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Raghavendra Raikar",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "raghu.raikar@outlook.com",
+    "phone": "",
+    "url": "http://www.linkedin.com/in/raghavendraraikar",
+    "summary": "Rising Senior at UC Santa Cruz majoring in Computer Science",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "CA 95060",
+      "city": "Santa Cruz",
       "countryCode": "US",
       "region": "California"
     },
@@ -22,15 +22,18 @@
       }
     ]
   },
-  "work": [
+  "experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Beau",
+      "position": "Software Engineering Intern",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2024-07-21",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Bridging the gap between client and make-up artist by developing a matching and booking system using React Native,
+Python and Firebase, setting the stage for a seamless user experience and generating pre-launch interest.", "Enhanced software design, coding, and testing, accelerating feature deployment by 25% and integrated Jest for unit
+testing, ensuring robust and maintainable code.", "Collaborated with co-founders and engineers to ensure scalable launch readiness, focusing on robust system design and
+data integrity."]
     }
   ],
   "volunteer": [
