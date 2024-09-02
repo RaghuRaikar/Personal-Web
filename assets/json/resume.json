@@ -51,7 +51,7 @@
       "highlights": [" Built Python program using regex, streamlining client-side requirement extraction for Kitu-Inverter-Client by 70%.", "Cataloged server and client-side requirements, reducing development time by 35% and enhancing team accessibility.", "Conducted TPM testing on the OnLogic Board, achieving a 95% success rate in secure key storage and file decryption."]
     }
   ],
-  "volunteer1": [
+  "volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -76,7 +76,7 @@
       "courses": ["GPA: 3.83","Data Structures/Algorithms", "Object Oriented Programming", "Software Engineering", "Deep Learning", "Machine Learning", "Operating Systems", "Natural Language Processing"]
     }
   ],
-  "awards1": [
+  "awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -108,7 +108,7 @@
       "icon": "fa-solid fa-envelope"
     }
   ],
-  "publications1": [
+  "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -201,7 +201,7 @@
       ]
     }
   ],
-  "references1": [
+  "references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
