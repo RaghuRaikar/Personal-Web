@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>UC Santa Cruz Computer Science Student</p>
     <p>Email: raghu.raikar@outlook.com</p>
-    <p>Phone: 310-897-3858</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
