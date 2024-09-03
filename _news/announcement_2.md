@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Oracle Certified Associate, Java SE 8 Programmer
+date: 2022-12-15 16:11:00-0400
 inline: false
 related_posts: false
 ---
