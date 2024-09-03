@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Raghavendra Raikar",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "raghu.raikar@outlook.com",
+    "phone": "",
+    "url": "http://www.linkedin.com/in/raghavendraraikar",
+    "summary": "Rising Senior at UC Santa Cruz majoring in Computer Science",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "CA 95060",
+      "city": "Santa Cruz",
       "countryCode": "US",
       "region": "California"
     },
@@ -24,13 +24,43 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Beau",
+      "position": "Software Engineering Intern",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2024-07-21",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Bridging the gap between client and make-up artist by developing a matching and booking system using React Native, Python, and Firebase, setting the stage for a seamless user experience and generating pre-launch interest.",
+        "Enhanced software design, coding, and testing, accelerating feature deployment by 25% and integrated Jest for unit testing, ensuring robust and maintainable code.",
+        "Collaborated with co-founders and engineers to ensure scalable launch readiness, focusing on robust system design and data integrity."
+      ]
+    },
+    {
+      "name": "NASA",
+      "position": "Software Engineering Intern",
+      "url": "https://celestial.arc.nasa.gov/",
+      "startDate": "2023-06-05",
+      "endDate": "2024-05-10",
+      "summary": "",
+      "highlights": [
+        "Built and improved 10+ features for the CMS Celestial Mapping System using Java, enhancing 3D simulation accuracy and contributing to mission planning.",
+        "Integrated the latest version of GDAL, boosting image projection accuracy by 30%, and added vector features, enhancing crater analysis by 40%.",
+        "Developed data pipeline and algorithms for HORUS, improving lunar crater clarity by 25%, and presented the project at the NASA Better Together 2023 conference."
+      ]
+    },
+    {
+      "name": "Kitu Systems",
+      "position": "Software Engineering Intern",
+      "url": "https://www.kitu.io/",
+      "startDate": "2023-03-27",
+      "endDate": "2023-06-15",
+      "summary": "",
+      "highlights": [
+        "Built Python program using regex, streamlining client-side requirement extraction for Kitu-Inverter-Client by 70%.",
+        "Cataloged server and client-side requirements, reducing development time by 35% and enhancing team accessibility.",
+        "Conducted TPM testing on the OnLogic Board, achieving a 95% success rate in secure key storage and file decryption."
+      ]
     }
   ],
   "volunteer": [
@@ -42,20 +72,32 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
+        "Men of the year 2014 by Time magazine"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of California Santa Cruz",
+      "location": "Santa Cruz, California",
+      "url": "https://www.ucsc.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "2021-09-18",
+      "endDate": "2025-06-15",
+      "score": "",
+      "courses": [
+        "GPA: 3.83",
+        "Data Structures/Algorithms",
+        "Object Oriented Programming",
+        "Software Engineering",
+        "Deep Learning",
+        "Machine Learning",
+        "Operating Systems",
+        "Natural Language Processing"
+      ]
     }
   ],
   "awards": [
@@ -69,46 +111,25 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2023-01-06",
+      "issuer": "Amazon Web Services (AWS)",
+      "url": "https://aws.amazon.com/free/?gclid=CjwKCAjwxNW2BhAkEiwA24Cm9ACq2RjGgJ5rNDdzsa5eQoUjswhhTqxdFY6yrmefcpKB9jHqU8QFrRoCt7UQAvD_BwE&trk=6a4c3e9d-cdc9-4e25-8dd9-2bd8d15afbca&sc_channel=ps&ef_id=CjwKCAjwxNW2BhAkEiwA24Cm9ACq2RjGgJ5rNDdzsa5eQoUjswhhTqxdFY6yrmefcpKB9jHqU8QFrRoCt7UQAvD_BwE:G:s&s_kwcid=AL!4422!3!651751059783!e!!g!!aws!19852662197!145019195897&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Oracle Certified Associate, Java SE 8 Programmer",
+      "date": "2022-12-15",
+      "issuer": "Oracle",
+      "url": "https://www.oracle.com/",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "IOS Development",
+      "date": "2022-11-15",
+      "issuer": "CodePath",
+      "url": "https://www.codepath.org/",
       "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -136,25 +157,56 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C",
+        "C++",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Flutter",
+        "Swift",
+        "Flask",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "AWS",
+        "React",
+        "Node.js",
+        "Git",
+        "PostgreSQL",
+        "Restful APIs",
+        "Docker",
+        "Angular",
+        "Firebase",
+        "Spring Boot",
+        "NLTK",
+        "Pandas",
+        "scikit-learn",
+        "Tensorflow",
+        "Matlab",
+        "Streamlit",
+        "spaCy",
+        "BERT",
+        "Hugging Face",
+        "Microsoft Azure",
+        "Django",
+        "Flask",
+        "Express",
+        "Linux",
+        "PyTorch"
       ]
     }
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
     {
       "language": "English",
       "fluency": "Fluent",
@@ -163,15 +215,13 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "AI",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Natural Language Processing"
       ]
     }
   ],
@@ -189,12 +239,38 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "PlayPicks",
+      "summary": "",
+      "highlights": [
+        "React | Flask | SpaCy | Firebase | Llama | Odds API | RAG",
+        "Built a chatbot with Llama LLM, using RAG and Odd API data to deliver AI predictions, real-time odds, and tailored betting advice. Employed spaCy for conversation labeling and deployed via AWS Amplify, reaching over 100+ users."
+      ],
+      "startDate": "2024-08-01",
+      "endDate": "Present",
+      "url": "https://play-picks.com"
+    },
+    {
+      "name": "PantryPal",
+      "summary": "",
+      "highlights": [
+        "Streamlit | Flask | Pandas | NLTK | SKLearn | BeautifulSoup",
+        "Engineered an AI model using Streamlit, Flask, Pandas, NLTK, and SKLearn to recommend recipes based on inputted ingredients, creating a user-friendly interface and enhancing user experience."
+      ],
+      "startDate": "2023-07-20",
+      "endDate": "2023-08-31",
+      "url": "https://github.com/PantryPal-1"
+    },
+    {
+      "name": "Wasteless",
+      "summary": "",
+      "highlights": [
+        "1st Place Overall | Best Use of Google Cloud | Best Golden State Hack",
+        "Firebase | Firebase Cloud Messaging | Google Maps API | Flutter | Google Cloud",
+        "Developed a food waste app using Firebase, Google Maps API, and Flutter, allowing users to find and collect excess food from dining halls and restaurants, reducing food waste costs by an estimated $162 billion annually."
+      ],
+      "startDate": "2022-01",
+      "endDate": "2022-01",
+      "url": "https://devpost.com/software/wasteless-45tuj9"
     }
   ]
 }
