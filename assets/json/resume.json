@@ -100,7 +100,7 @@
       ]
     }
   ],
-  "awards": [
+  "awards1": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -132,7 +132,7 @@
       "icon": "fa-solid fa-envelope"
     }
   ],
-  "publications": [
+  "publications1": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -225,7 +225,7 @@
       ]
     }
   ],
-  "references": [
+  "references1": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
