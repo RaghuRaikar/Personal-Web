@@ -13,14 +13,10 @@
   contents:
     - title: Bachelors
       institution: University of California Santa Cruz
-      year: 2025
+      year: Expected Graduation: June 2025
       description:
-        - Computer Science 
-        - Description 2.
-        - title: Major.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Computer Science and Mathematics Minor
+        - GPA: 3.83
 
 - title: Experience
   type: time_table
