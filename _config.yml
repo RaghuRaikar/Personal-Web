@@ -298,8 +298,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["Software", "Engineering", "Internships"] # these tags will be displayed on the front page of your blog
-display_categories: ["Conferences"] # these categories will be displayed on the front page of your blog
+display_tags: ["Software", "Engineering"] # these tags will be displayed on the front page of your blog
+display_categories: ["Internships", "Conferences"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
